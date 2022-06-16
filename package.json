@@ -1,0 +1,24 @@
+{
+  "name": "tmpExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-xero/tmpExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-xero/tmpExample/issues"
+  },
+  "homepage": "https://github.com/nick-xero/tmpExample#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "tmp": "^0.2.1"
+  }
+}
